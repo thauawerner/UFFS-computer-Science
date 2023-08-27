@@ -1,0 +1,2 @@
+Os arquivos ExerN.c sao os codigos referentes a resolucao dos exercicios contidos no PDF Lista Loop C.
+A Lista referece ao segundo trabalho avaliativo para a materia de Estruturas de Dados do curso de ciencia da computacao da UFFS 2023.2
