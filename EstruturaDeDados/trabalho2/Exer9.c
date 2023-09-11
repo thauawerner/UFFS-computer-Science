@@ -79,6 +79,6 @@ else
 }
 
 for (int i = 0; i < 4; i++)
-{
+{  
     printf("time %c: %d pontos\n", nomesTimes[i], pontos[i]);
 }
